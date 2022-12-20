@@ -1,13 +1,13 @@
 ### Hi there 👋
 [Portfolio](https://portfolio-g-bot987.vercel.app/ "https://portfolio-g-bot987.vercel.app/") [Linkedin](https://www.linkedin.com/in/georgia-h-b48434150/ "https://www.linkedin.com/in/georgia-h-b48434150/")
 
-# Colaborators and enquiries 
+# collaborating and enquiries 
 
 Please contact me on Linkedin, I accept all invitations to connect, well...  almost all
 
 # Bio
 
-Experienced Full stack web developer. competent with; NextJS, React, React.Native for IOS and Android, TypeScript, JavaScript, Node.JS, MySQL, MongoDB, Docker, IORedis, Redux, Gitbash, Sublime Merge and Deis. My current role has allowed me to develop exceptional diagnostical skills coupled with my strong core programming princples; front end , back end and mobile development roles are well within my comfrot zone. My role as a support developer has given me experiene fixing bugs of varying complexity using technologies such as Insomnia, Redux Devtools and Android Studio.
+Experienced Full stack web developer. competent with; Angular, NextJS, React, React.Native for IOS and Android, TypeScript, JavaScript, Node.JS, MySQL, MongoDB, Docker, IORedis, Redux, Gitbash, Sublime Merge and Deis. Extensive agency experience across multiple employers. Currently working with Angular and previously with React. With previous experience as a Support Develop I've developed exceptional diagnostical skills coupled with my strong core programming princples; front end , back end and mobile development roles are well within my comfrot zone.  WIth a nuanced understanding of bug fixing to a varying degrees of complexity I'm confident with using technologies such as Insomnia, Redux Devtools and Android Studio.
 <!--
 **G-bot987/G-bot987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
