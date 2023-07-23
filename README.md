@@ -19,6 +19,8 @@ Experienced Full stack web developer. competent with; Angular, NextJS, React, Re
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-bot987&size_weight=0.5&count_weight=0.5)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=G-bot987)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=G-bot987)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **G-bot987/G-bot987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
