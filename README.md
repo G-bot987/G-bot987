@@ -20,7 +20,9 @@ Experienced Full stack web developer. competent with; Angular, NextJS, React, Re
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=G-bot987&theme=chartreuse-dark	)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=G-bot987&theme=github-compact	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=G-bot987&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username==G-bot987&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **G-bot987/G-bot987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
