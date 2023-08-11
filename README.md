@@ -18,6 +18,8 @@ Experienced Full stack web developer. competent with; Angular, NextJS, React, Re
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-bot987&layout=compact&theme=chartreuse-dark)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=G-bot987&theme=chartreuse-dark	)](https://git.io/streak-stats)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=G-bot987&theme=github-compact	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
