@@ -17,7 +17,7 @@ Experienced Full stack web developer. competent with; Angular, NextJS, React, Re
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Bot987&theme=chartreuse-dark&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-Bot987&repo=NextDnDCharacterManager&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=G-Bot987&repo=NextDnDCharacterManager&theme=chartreuse-dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-bot987&layout=compact&theme=chartreuse-dark)
 
