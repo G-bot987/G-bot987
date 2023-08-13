@@ -15,7 +15,7 @@ Please contact me on Linkedin, I accept all invitations to connect, well...  alm
 Experienced Full stack web developer. competent with; Angular, NextJS, React, React.Native for IOS and Android, TypeScript, JavaScript, Node.JS, MySQL, MongoDB, Docker, IORedis, Redux, Gitbash, Sublime Merge and Deis. Extensive agency experience across multiple employers. Currently working with Angular and previously with React. With previous experience as a Support Develop I've developed exceptional diagnostical skills coupled with my strong core programming princples; front end , back end and mobile development roles are well within my comfrot zone.  WIth a nuanced understanding of bug fixing to a varying degrees of complexity I'm confident with using technologies such as Insomnia, Redux Devtools and Android Studio.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Bot987&theme=chartreuse-dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Bot987&theme=chartreuse-dark&show_icons=true&hide=contribs)
 
 
 
